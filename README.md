@@ -1,4 +1,7 @@
 # CSS3 Tutorial 《CSS3 教程》
+
+> 本开源书 forked from [CSS3 教程](https://github.com/waylau/css3-tutorial)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/css3-tutorial)，以便获得最新更新，谢谢！
+
 CSS3 Tutorial takes you to learn CSS3 step by step with a large number of samples. There is also a GitBook version of the book: <http://www.gitbook.com/book/waylau/css3-tutorial>.
 Let's [READ](SUMMARY.md)!
 
